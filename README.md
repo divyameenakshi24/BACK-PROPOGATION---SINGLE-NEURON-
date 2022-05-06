@@ -1,4 +1,4 @@
-### EX NO:07
+### EX NO: 07
 ### DATE:
 # <p align="center">BACK PROPOGATION SINGLE NEURON <p/>
 ## Aim:
