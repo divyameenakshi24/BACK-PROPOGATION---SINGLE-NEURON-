@@ -25,7 +25,7 @@ Backpropagation (backward propagation) is an important mathematical tool for imp
 ```
 /*
 Program to implement random classification.
-Developed by   : A.Divya Meenakshi
+Developed by   : A.Divya Meenakshi 
 RegisterNumber :  212220230014
 */
 ```
